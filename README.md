@@ -1,4 +1,4 @@
-# Firework App Support
+# Gun Simulator App Support
 
 Welcome to the support page of the ** Gun Simulator App**.
 
